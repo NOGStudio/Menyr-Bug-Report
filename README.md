@@ -11,16 +11,18 @@ Our primary focus is on enhancing the stability and performance of Menyr to give
 
 We would like to express our deep gratitude for your support and participation in this closed beta phase. Your feedback and suggestions are invaluable and enable us to make Menyr the best VTT there is. Thank you for choosing to tag along with us on this journey.
 
-Please note that bug reports should be limited to actual bugs and technical issues. If you have any ideas for exciting new features or enhancements, we'd love to hear about them! 
+Please note that bug reports should be limited to actual bugs and technical issues. If you have any feedback on the beta, please head to our [Discord Beta Feedback subchannel](https://discord.com/channels/951169848094916679/1121769881742872576).
+
+If you have any ideas for exciting new features, we'd love to hear about them! 
 Follow this link to share your suggestions: [Feature Requests](https://portal.productboard.com/ycntuexygoaukq1vqftharus/tabs/4-roadmap).
 
 ---
 
 ## <img src="https://github.com/NOGStudio/Menyr-Feedback/assets/67908404/398998d0-d3ac-4103-bc7b-b8462499b683" alt="alt text" width=auto height="50"> How to Report a Bug
 
-If you encounter any technical issues or bugs while using the application, we invite you to report them so that our team can review and resolve them quickly. Your contribution is essential in helping us improve Menyr.
+If you encounter any technical issues or bugs while using Menyr, we invite you to report them so that our team can review and resolve them quickly. Your contribution is essential in helping us improve the engine.
 
-1. **Check Existing Issues**: Before reporting a bug, take a quick peek at the "Issues" section. This helps us keep things organized and ensures we're all on the same bug-crushing adventure!
+1. **Check Existing Issues**: Before reporting a bug, take a quick peek at the "Issues" section at the top of this page. This helps us keep things organized and ensures we're all on the same bug-crushing adventure!
 
 2. **Gather Necessary Information**: To give our talented team a clear picture of the bug, we need your help! Snap some screenshots of the issue (visuals are always a blast!), wrote the steps to reproduce it (like a treasure map!), and share any relevant other information.
 
