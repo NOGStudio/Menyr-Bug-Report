@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/NOGStudio/Menyr-Feedback/assets/67908404/59373a4e-97b8-46d0-9a9a-0792c6aa237f" alt="alt text">
+  <img src="https://github.com/NOGStudio/Menyr-Feedback/assets/67908404/2cc25b3d-dfb3-4d28-9bba-0d9807ad47b8" alt="header meyr">
 </p>
+
 
 
 
@@ -18,7 +19,7 @@ Follow this link to share your suggestions: [Feature Requests](https://portal.pr
 
 ---
 
-## <img src="https://github.com/NOGStudio/Menyr-Feedback/assets/67908404/398998d0-d3ac-4103-bc7b-b8462499b683" alt="alt text" width=auto height="50"> How to Report a Bug
+## <img src="https://github.com/NOGStudio/Menyr-Feedback/assets/67908404/1732568a-59e3-4ee7-84c2-192f3d4d1866" alt="icon Menyr" width=auto height="50"> How to Report a Bug
 
 If you encounter any technical issues or bugs while using Menyr, we invite you to report them so that our team can review and resolve them quickly. Your contribution is essential in helping us improve the engine.
 
@@ -34,7 +35,7 @@ If you have any further questions or need additional assistance, please don't he
 
 ---
 
-## <img src="https://github.com/NOGStudio/Menyr-Feedback/assets/67908404/398998d0-d3ac-4103-bc7b-b8462499b683" alt="alt text" width=auto height="50"> Useful links
+## <img src="https://github.com/NOGStudio/Menyr-Feedback/assets/67908404/1732568a-59e3-4ee7-84c2-192f3d4d1866" alt="icon Menyr" width=auto height="50"> Useful links
 
 - [Menyr official website](https://menyr.nogstudio.com)
 - [Official Discord](https://discord.gg/menyr)
