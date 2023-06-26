@@ -17,7 +17,7 @@ body:
       description: How can we get in touch with you if we need more info?
       placeholder: Username
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: what-happened
@@ -57,4 +57,4 @@ body:
       label: Which version of Menyr are you using ?
       placeholder: Write down the version you're currently playing on
     validations:
-      required: true
+      required: false
