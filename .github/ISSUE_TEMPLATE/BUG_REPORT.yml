@@ -30,7 +30,7 @@ body:
   - type: textarea
     id: repro
     attributes:
-      label: How did it happened?
+      label: How did it happen?
       placeholder: Give us the most detailed sequence of actions you did to get your bug
     validations:
       required: true
