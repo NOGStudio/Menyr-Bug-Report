@@ -38,7 +38,7 @@ If you have any further questions or need additional assistance, please don't he
 ## <img src="https://github.com/NOGStudio/Menyr-Feedback/assets/67908404/1732568a-59e3-4ee7-84c2-192f3d4d1866" alt="icon Menyr" width=auto height="50"> Useful links
 
 - [Menyr official website](https://menyr.nogstudio.com)
-- [Official Discord](https://discord.gg/menyr)
+- [Official Discord](https://discord.gg/menyr-951169848094916679)
 - [Menyr Tutorials](https://nogstudio.notion.site/e3a43041092b46929fb227134e4a1e0e?v=db7ca4f3e8704bc6a9b1855d54e2916e&pvs=4)
 - [Menyr Roadmap](https://portal.productboard.com/ycntuexygoaukq1vqftharus/tabs/4-roadmap)
 
